@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvailableChecker", "AvailableChecker\AvailableChecker.csproj", "{BAA390D5-7353-4EC9-8510-DDE7631EC46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA390D5-7353-4EC9-8510-DDE7631EC46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA390D5-7353-4EC9-8510-DDE7631EC46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA390D5-7353-4EC9-8510-DDE7631EC46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA390D5-7353-4EC9-8510-DDE7631EC46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C6162A4-7A6E-4815-AADB-C044E634DCAE}
+	EndGlobalSection
+EndGlobal
